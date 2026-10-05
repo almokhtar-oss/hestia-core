@@ -1,5 +1,7 @@
 # 🔥 Project Hestia v0.1.0
 
+[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/mult1v4c/hestia-core)
+
 ![Preview](assets/preview.gif)
 
 Welcome to **Project Hestia**\! This is a modular, grid-based dashboard that runs entirely in the browser (no complex backend required) but includes powerful integrations for your homelab services.
